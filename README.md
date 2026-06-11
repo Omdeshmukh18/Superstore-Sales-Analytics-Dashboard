@@ -18,4 +18,5 @@ Compare category-wise business performance.
 •  How do sales trends vary across different quarters?
 •  Are there categories or sub-categories with high sales but low profit?
 
-- Dashboard Interaction - < a href ="https://github.com/Omdeshmukh18/Superstore-Sales-Analytics-Dashboard/blob/main/Screenshot%20.png"> View Dashboard</a>
+##Dashboard Interaction 
+- <a href ="https://github.com/Omdeshmukh18/Superstore-Sales-Analytics-Dashboard/blob/main/Screenshot%20.png"> View Dashboard</a>
