@@ -31,3 +31,13 @@ Generated actionable insights from the dashboard to support data-driven decision
 ## Dashboard
 <img width="1322" height="729" alt="Screenshot " src="https://github.com/user-attachments/assets/06833f8b-62c5-45d4-8b70-22da42763f3c" />
 
+## PRoject Insights
+Technology category contributed approximately 36% of total sales, making it the highest revenue-generating category.
+Office Supplies accounted for nearly 60% of total orders, indicating strong customer demand.
+The business generated over $2.3M in sales and $286K in profit from 5009 orders.
+Top-performing sub-categories contributed more than 25% of overall sales, driving business growth.
+Quarterly analysis showed consistent sales performance, helping identify peak revenue periods and business trends.
+
+## Final Conclusion:
+This dashboard successfully transformed raw sales data into meaningful business insights. With over $2.3M in sales, $286K in profit, and 5009 orders, the analysis highlighted top-performing categories, customer purchasing trends, and profit-driving segments. The dashboard enables data-driven decision-making and helps businesses identify opportunities for growth and performance improvement.
+
