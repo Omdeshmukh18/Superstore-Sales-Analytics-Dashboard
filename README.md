@@ -27,3 +27,7 @@ Cleaned and transformed the data in Excel/Power BI to ensure accuracy and consis
 Created KPIs and measures to track Total Sales, Total Profit, and Total Orders.
 Designed interactive visualizations to analyze category-wise and sub-category-wise business performance.
 Generated actionable insights from the dashboard to support data-driven decision-making and identify business growth opportunities.
+
+## Dashboard
+<img width="1322" height="729" alt="Screenshot " src="https://github.com/user-attachments/assets/06833f8b-62c5-45d4-8b70-22da42763f3c" />
+
